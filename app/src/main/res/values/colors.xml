@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#344955</color>
+    <color name="colorPrimaryDark">#0b222c</color>
+    <color name="colorAccent">#f9aa33</color>
+    <color name="fadedWhite">#E0E0E0</color>
+    <color name="pureWhite">#84f9aa33</color>
+    <color name="fadedblack">#b2565252</color>
+
+</resources>
